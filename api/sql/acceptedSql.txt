@@ -1,0 +1,18 @@
+database/table/column
+database: pobanion_plantproj {
+    table: planterinfo {
+        column: luminosity
+        column: temperature
+    }
+    table: test {
+        column: a
+        column: b
+    }
+}
+database: pobanion_userinfo {
+    table: userinfo {
+        column: user
+        column: pass
+        column: simPass
+    }
+}

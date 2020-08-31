@@ -1,0 +1,41 @@
+@charset "utf-8";
+/*CSS document*/
+
+/* Formatting Table */
+table, th, td {
+	border: 2px solid black;
+	padding: 3px 10px;
+	text-align: center;
+}
+td {
+	text-align:left;
+	padding: 0px 10px;
+}
+
+
+/* Font Style */
+div h5 {
+	color: #000000;
+	padding: 5px 5% 15px;
+	font-size: 15px;
+	text-align: center;
+	font-weight: 700;
+}
+
+
+/* Images */
+.im {
+	width: 100%;
+	height: auto;
+	max-width: 400px;
+	max-height: 400px;
+	margin: auto;
+	display: block;
+}
+.cube {
+	width: 300px;
+	height: 300px;
+	margin: auto;
+	text-align: center;
+	display: block;
+}

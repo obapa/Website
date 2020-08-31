@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Font Style*/
+div h2 {
+	font-family: DejaVu Sans, Trebuchet MS, Verdana,' sans-serif';
+	font-size: 20px;
+	text-align: center
+}
+
+/* Images*/
+.indexIm {
+	width: 260px;
+	height: 156px;
+	
+	display: block;
+}
